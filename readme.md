@@ -18,7 +18,7 @@ existing on the terminal
 <br>
 4. not a gamer
 <br>
-5. 自由時間に日本語を学ぶ
+5. 日本語を勉強しています
 
 <h3>
   <code>misc.</code>
