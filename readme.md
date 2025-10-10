@@ -1,27 +1,33 @@
 <h3>
   <code>current status</code>
 </h3>
-existing, on the terminal.
-
-<h3>
-  <code>working on</code>
-</h3>
-learning react and next — creating design interfaces /
+creating design interfaces with/ next and tailwind
+<br>
+learning python for personal projects
+<br>
+existing on the terminal
 
 <h3>
   <code>random stuff about me</code>
 </h3>
-
-- i love to create minimal, monochromatic designs.
-- my go-to tech stack is nextjs, typescript and tailwind. 
-- occasionally go out and touch grass (kinda important, appararently)
-- love watching anime, i have seen over a 100 at this point.
-- really love consuming space opera of any medium.
-- casual gamer, the only game i somewhat play is mobile legends.
-- if you jus wanna hangout, dm me on [discord](https://discord.gg/TM6Z2GRf)
+1. go to stack is next + tailwind
+<br>
+2. i use arch, btw
+<br>
+3. an avid anime watcher (currently watching <code>Patlabor</code>)
+<br>
+4. not a gamer
+<br>
+5. 自由時間に日本語を学ぶ
 
 <h3>
   <code>misc.</code>
 </h3>
 
 ![arx9781](https://github-readme-stats.vercel.app/api?username=arx9781&show_icons=true&icon_color=8c9191&bg_color=00000000&hide_border=false&theme=dark&hide=contribs,prs)
+
+<h3>
+  <code>socials</code>
+</h3>
+
+[x](https://x.com/morphinearc) – [instagram](https://instagram.com/arx9781) – [website](https://ghostfreakv2.vercel.app) – [spotify](https://open.spotify.com/user/e9z0rzwxyw9dwv7sngwscw26q?si=94bdd35fb7384d9e) – [ko-fi](https://ko-fi.com/Z8Z61LQI16) – [github](https://github.com/arx9781)
