@@ -13,7 +13,7 @@ Web Developer. Software Engineer. Student
 - [GhostfreakV2](https://ghostfreakv2.vercel.app/) / Personal website (being replaced)
 - [arxe.gallery](https://arxe-gallery.vercel.app/) / Filter-able gallery through categories.
 
-### Community
+### Projects
 
 - [Cinemaphile](https://cinemaphile-client.onrender.com/) / Letterboxd-like movie review page. Community discussions included.
 - [FluxDL](https://github.com/arcechq/fluxdl) / A self-hosted video downloader. Uses yt-dlp and FastAPI for the backend.
